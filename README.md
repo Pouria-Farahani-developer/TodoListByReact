@@ -1,6 +1,6 @@
 # TodoListByReact
 
-📚 **Use this website anywhere to store the information of the books in your library without losing the information**
+☑️ **To do list, you can do all your backlog with this app! (faster and more advanced than the previous version)**
 
 ![image psd](https://user-images.githubusercontent.com/109727844/202759758-f3e3106e-9437-49c8-9136-6af1fa8d71e4.jpg)
 
