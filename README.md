@@ -2,7 +2,7 @@
 
 📚 **Use this website anywhere to store the information of the books in your library without losing the information**
 
-![image](https://user-images.githubusercontent.com/109727844/201334000-c4315021-6106-4492-9fd2-58e9fa8f52fc.jpg)
+![image psd](https://user-images.githubusercontent.com/109727844/202759758-f3e3106e-9437-49c8-9136-6af1fa8d71e4.jpg)
 
 ![image psd](https://user-images.githubusercontent.com/109727844/201337608-5b8be3e7-a93f-49ff-b96e-61d3a8861b46.jpg)
 
